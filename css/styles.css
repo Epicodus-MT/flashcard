@@ -1,0 +1,24 @@
+#javascript-showing {
+  display: none;
+}
+
+#operators-showing {
+  display: none;
+}
+
+#functions-showing {
+  display: none;
+}
+
+#variables-showing {
+  display: none;
+}
+
+.linx {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.linx:hover {
+  text-decoration: underline;
+}
